@@ -1,4 +1,4 @@
-# IOTA-Co-Lab
+# TensorFlow-Co-Lab
    
    
 ## WG1: 影像分類/辨識技術 
@@ -31,9 +31,7 @@
 <p align="center">
   <img src="https://github.com/twoss-io/TensorFlow-Co-Lab/blob/master/img/tensorflow_intro4.png">
 </p>
-   
-# IOTA-Co-Lab
-   
+      
    
 ## WG2: 語音/語者辨識技術 
 
