@@ -24,8 +24,8 @@
 #### 具體產業效益
 * 提供「醫學病症影像模型」建置典範，回饋影像/病症參數處理程式碼，協助社群開發醫療病症影像辨識源碼支援，導引產業服務價值鏈創新。
 
- ![](https://github.com/twoss-io/TensorFlow-Co-Lab/blob/master/img/tensorflow_intro1.png)
- ![](https://github.com/twoss-io/TensorFlow-Co-Lab/blob/master/img/tensorflow_intro2.png)
+ ![](https://github.com/twoss-io/TensorFlow-Co-Lab/blob/master/img/tensorflow_intro3.png)
+ ![](https://github.com/twoss-io/TensorFlow-Co-Lab/blob/master/img/tensorflow_intro4.png)
   
    
    
