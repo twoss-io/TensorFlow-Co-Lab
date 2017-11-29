@@ -28,9 +28,9 @@
 <p align="center">
   <img src="https://github.com/twoss-io/TensorFlow-Co-Lab/blob/master/img/tensorflow_intro3.png">
 </p>
- ![]()
- ![](https://github.com/twoss-io/TensorFlow-Co-Lab/blob/master/img/tensorflow_intro4.png)
-  
+<p align="center">
+  <img src="https://github.com/twoss-io/TensorFlow-Co-Lab/blob/master/img/tensorflow_intro4.png">
+</p>
    
    
 
