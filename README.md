@@ -70,3 +70,31 @@
 </p>
    
 
+## WG3: 機台振動模型分析
+
+#### 推動執行目標
+紡織機台之織針為機台之消耗品，但其重量比例較小，因此造成機台之震動變化甚小。本分項目標是透過深度學習之模型，期能更正確分析出織針磨損之模型。
+
+#### 團隊工作分配
+
+* 中央大學梁德容教授團隊2位：
+   * 協助分析震動資料
+   * 設計實驗方法
+   * 指導TensorFlow開發
+* 佰龍機械2位：
+   * 建立機台蒐集資料技術
+   * 協助蒐集客戶端實際運算資料供研發團隊開發模型
+* 工研院團隊：
+   * 協助溝通研發與廠商之工作
+
+#### 具體產業效益
+* 因 Deep Learning 技術，能針對原本較難建立之模型，發展新model的可能性，協助廠商增加產品價值。
+
+
+<p align="center">
+  <img src="https://github.com/twoss-io/TensorFlow-Co-Lab/blob/master/img/tensorflow_intro1.png">
+</p>
+<p align="center">
+  <img src="https://github.com/twoss-io/TensorFlow-Co-Lab/blob/master/img/tensorflow_intro2.png">
+</p>
+
