@@ -92,9 +92,6 @@
 
 
 <p align="center">
-  <img src="https://github.com/twoss-io/TensorFlow-Co-Lab/blob/master/img/tensorflow_intro1.png">
-</p>
-<p align="center">
-  <img src="https://github.com/twoss-io/TensorFlow-Co-Lab/blob/master/img/tensorflow_intro2.png">
+  <img src="https://github.com/twoss-io/TensorFlow-Co-Lab/blob/master/img/tensorflow_intro5.png">
 </p>
 
